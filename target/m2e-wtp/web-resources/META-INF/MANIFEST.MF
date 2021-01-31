@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: space
+Build-Jdk: 11.0.9.1
+Implementation-Title: Api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.java.springboot1
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/api
+Main-Class: com.mobileaders.starter.NewsAPIApp
+Created-By: Maven Integration for Eclipse
+
